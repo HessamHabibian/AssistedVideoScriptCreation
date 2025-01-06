@@ -1,0 +1,9 @@
+datasets==3.1.0
+huggingface-hub==0.26.2
+peft==0.13.2
+pydantic==2.9.2
+python-dotenv==1.0.1
+requests==2.32.3
+torch==2.5.1
+transformers==4.46.3
+trl==0.12.1
